@@ -29,7 +29,6 @@ This is a repository for ...
 ## Data preparation
 | Paper                                             |  Published in | Code/Project|                                  
 |---------------------------------------------------|:-------------:|:------------:|
-[GPT3Mix: Leveraging large-scale language models for text augmentation](https://arxiv.org/abs/2104.08826)|arxiv 2021|-|
 
 ## Pretraining
 | Paper                                             |  Published in | Code/Project|                                  
