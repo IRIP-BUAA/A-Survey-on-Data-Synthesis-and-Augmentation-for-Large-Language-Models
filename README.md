@@ -33,7 +33,7 @@ This is a repository for ...
 ## Pretraining
 | Paper                                             |  Published in | Code/Project|                                  
 |---------------------------------------------------|:-------------:|:------------:|
-
+[TinyStories: How small can language models be and still speak coherent English](https://arxiv.org/abs/2305.07759)|arxiv 2023|https://huggingface.co/roneneldan|
 
 ## Prompt
 | Paper                                             |  Published in | Code/Project|                                  
