@@ -52,6 +52,9 @@ This is a repository for ...
 [WizardMath: Empowering mathematical reasoning for large language models via reinforced evol-instruct](https://arxiv.org/abs/2308.09583)|arxiv 2023|https://github.com/nlpxucan/WizardLM|
 [Magicoder: Source code is all you need](https://arxiv.org/abs/2312.02120)|arxiv 2023|https://github.com/ise-uiuc/magicoder|
 [MetaMeth: Bootstap your own mathematical questions for large language models](https://arxiv.org/abs/2309.12284)|arxiv 2024|https://meta-math.github.io/|
+[DeepSeek-Prover: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333v1)|arxiv 2024|-|
+[Conmmon 7B language models already possess strong math capabilities](https://arxiv.org/abs/2403.04706)|arxiv 2024|https://github.com/Xwin-LM/Xwin-LM|
+[Augmenting math word problems via iterative question composing](https://arxiv.org/abs/2401.09003)|arxiv 2024|https://huggingface.co/datasets/Vivacem/MMIQC|
 
 
 ## Prompt
