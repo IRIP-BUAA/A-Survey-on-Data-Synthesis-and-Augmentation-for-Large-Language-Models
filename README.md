@@ -1,6 +1,6 @@
-# A Review for Data Synthesis and Augmentation for Large Models
+# A Survey on Data Synthesis and Augmentation for Large Language Models
 
-This is a repository for ...
+Work In Progress.
 
 
 ## Table of Contents
