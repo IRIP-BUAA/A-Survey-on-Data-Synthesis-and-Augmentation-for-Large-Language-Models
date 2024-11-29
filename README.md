@@ -65,36 +65,51 @@ Work In Progress.
 | [Toolcoder: Teach code generation models to use api search tools](https://arxiv.org/abs/2305.04032) |      arxiv 2023       |    -    |
 | [Coannotating: Uncertainty-guided work allocation between human and large language models for data annotation](https://arxiv.org/abs/2310.15638) |      arxiv 2023       |    https://github.com/SALT-NLP/CoAnnotating    |
 | [Does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human Dialogues?](https://arxiv.org/abs/2307.07047) |      arxiv 2023       |    https://boru-roylu.github.io/DialGen    |
-| []() |      arxiv 2024       |    -    |
-| []() |      arxiv 2024       |    -    |
-| []() |      arxiv 2024       |    -    |
-| []() |      arxiv 2024       |    -    |
+| [Measuring mathematical problem solving with the math dataset](https://arxiv.org/abs/2103.03874) |      arxiv 2021       |    -    |
+| [Llemma: An open language model for mathematics](https://arxiv.org/abs/2310.10631) |      arxiv 2023       |    https://github.com/EleutherAI/math-lm    |
+| [Code Less, Align More: Efficient LLM Fine-tuning for Code Generation with Data Pruning](https://arxiv.org/abs/2407.05040) |      arxiv 2024       |    -    |
 
 ## Pretraining
 | Paper                                             |  Published in | Code/Project|                                  
 |---------------------------------------------------|:-------------:|:------------:|
-[TinyStories: How small can language models be and still speak coherent English](https://arxiv.org/abs/2305.07759)|arxiv 2023|https://huggingface.co/roneneldan|
-[Textbooks are all you need](https://arxiv.org/abs/2306.11644)|arxiv 2023|-|
-[Textbooks are all you need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)|arxiv 2023|-|
+| [VILA2: VILA Augmented VILA](https://arxiv.org/abs/2407.17453)|arxiv 2024|https://github.com/NVlabs/VILA|
+| [Textbooks are all you need](https://arxiv.org/abs/2306.11644)|arxiv 2023|-|
+| [Textbooks are all you need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)|arxiv 2023|-|
+| [Is Child-Directed Speech Effective Training Data for Language Models](https://arxiv.org/abs/2408.03617) |      arxiv 2024       |    https://babylm.github.io/index.html    |
+| [SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding](https://arxiv.org/abs/2408.15545) |      arxiv 2024       |    https://github.com/dptech-corp/Uni-SMART    |
+| [Anygpt: Unified multimodal llm with discrete sequence modeling](https://arxiv.org/abs/2402.12226) |      arxiv 2024       |    https://junzhan2000.github.io/AnyGPT.github.io/    |
+| [Is synthetic data from generative models ready for image recognition](https://arxiv.org/abs/2210.07574) |      arxiv 2023       |    https://github.com/CVMI-Lab/SyntheticData    |
+| [Rephrasing the web: A recipe for compute and data-efficient language modeling](https://arxiv.org/abs/2401.16380) |      arxiv 2024       |    -    |
+| [Physics of language models: Part 3.1, knowledge storage and extraction](https://arxiv.org/abs/2309.14316) |      arxiv 2024       |    https://physics.allen-zhu.com/part-3-knowledge/part-3-1    |
+| [Llemma: An open language model for mathematics](https://arxiv.org/abs/2310.10631) |      arxiv 2023       |    https://github.com/EleutherAI/math-lm    |
+| [Enhancing multilingual language model with massive multilingual knowledge triples](https://arxiv.org/abs/2111.10962) |      arxiv 2021       |    https://github.com/ntunlp/kmlm.git    |
+| [Large language models, physics-based modeling, experimental measurements: the trinity of data-scarce learning of polymer properties](https://arxiv.org/abs/2407.02770) |      arxiv 2024       |    -    |
 
 ## Fine-Tuning
 | Paper                                             |  Published in | Code/Project|                                  
 |---------------------------------------------------|:-------------:|:------------:|
-[Large language models can self-improve](https://arxiv.org/abs/2210.11610)|arxiv 2022|-|
-[STaR: Bootstrapping reasoning with reasoning](https://arxiv.org/abs/2203.14465)|arxiv 2022|-|
-[Language models can teach themselves to program better](https://arxiv.org/abs/2207.14502)|arxiv 2022|https://github.com/microsoft/PythonProgrammingPuzzles|
-[Self-Instruct: Aligning language models with self-generated instructions](https://arxiv.org/abs/2212.10560)|arxiv 2023|https://github.com/yizhongw/self-instruct|
-[Stanford Alpaca: An Instruction-following LLaMA Model](https://github.com/tatsu-lab/stanford_alpaca)|github 2023|https://github.com/tatsu-lab/stanford_alpaca|
-[Code alpaca: An instruction-following llama model for code generation](https://github.com/sahil280114/codealpaca)|github 2023|https://github.com/sahil280114/codealpaca|
-[Code Llama: Open foundation models for code](https://arxiv.org/abs/2308.12950)|arxiv 2023|https://github.com/meta-llama/codellama|
-[WizardLM: Empowering large language models to follow complex instructions](https://arxiv.org/abs/2304.12244)|arxiv 2023|https://github.com/nlpxucan/WizardLM|
-[WizardCode: Empowering code large language models with Evol-Instruct](https://arxiv.org/abs/2306.08568)|arxiv 2023|https://github.com/nlpxucan/WizardLM|
-[WizardMath: Empowering mathematical reasoning for large language models via reinforced evol-instruct](https://arxiv.org/abs/2308.09583)|arxiv 2023|https://github.com/nlpxucan/WizardLM|
-[Magicoder: Source code is all you need](https://arxiv.org/abs/2312.02120)|arxiv 2023|https://github.com/ise-uiuc/magicoder|
-[MetaMeth: Bootstap your own mathematical questions for large language models](https://arxiv.org/abs/2309.12284)|arxiv 2024|https://meta-math.github.io/|
-[DeepSeek-Prover: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333v1)|arxiv 2024|-|
-[Conmmon 7B language models already possess strong math capabilities](https://arxiv.org/abs/2403.04706)|arxiv 2024|https://github.com/Xwin-LM/Xwin-LM|
-[Augmenting math word problems via iterative question composing](https://arxiv.org/abs/2401.09003)|arxiv 2024|https://huggingface.co/datasets/Vivacem/MMIQC|
+|[Large language models can self-improve](https://arxiv.org/abs/2210.11610)|arxiv 2022|-|
+|[STaR: Bootstrapping reasoning with reasoning](https://arxiv.org/abs/2203.14465)|arxiv 2022|-|
+|[Language models can teach themselves to program better](https://arxiv.org/abs/2207.14502)|arxiv 2022|https://github.com/microsoft/PythonProgrammingPuzzles|
+|[Self-Instruct: Aligning language models with self-generated instructions](https://arxiv.org/abs/2212.10560)|arxiv 2023|https://github.com/yizhongw/self-instruct|
+|[Stanford Alpaca: An Instruction-following LLaMA Model](https://github.com/tatsu-lab/stanford_alpaca)|github 2023|https://github.com/tatsu-lab/stanford_alpaca|
+|[Code alpaca: An instruction-following llama model for code generation](https://github.com/sahil280114/codealpaca)|github 2023|https://github.com/sahil280114/codealpaca|
+|[Code Llama: Open foundation models for code](https://arxiv.org/abs/2308.12950)|arxiv 2023|https://github.com/meta-llama/codellama|
+|[WizardLM: Empowering large language models to follow complex instructions](https://arxiv.org/abs/2304.12244)|arxiv 2023|https://github.com/nlpxucan/WizardLM|
+|[WizardCode: Empowering code large language models with Evol-Instruct](https://arxiv.org/abs/2306.08568)|arxiv 2023|https://github.com/nlpxucan/WizardLM|
+|[WizardMath: Empowering mathematical reasoning for large language models via reinforced evol-instruct](https://arxiv.org/abs/2308.09583)|arxiv 2023|https://github.com/nlpxucan/WizardLM|
+|[Magicoder: Source code is all you need](https://arxiv.org/abs/2312.02120)|arxiv 2023|https://github.com/ise-uiuc/magicoder|
+|[MetaMeth: Bootstap your own mathematical questions for large language models](https://arxiv.org/abs/2309.12284)|arxiv 2024|https://meta-math.github.io/|
+|[DeepSeek-Prover: Advancing theorem proving in LLMs through large-scale synthetic data](https://arxiv.org/abs/2405.14333v1)|arxiv 2024|-|
+|[Conmmon 7B language models already possess strong math capabilities](https://arxiv.org/abs/2403.04706)|arxiv 2024|https://github.com/Xwin-LM/Xwin-LM|
+|[Augmenting math word problems via iterative question composing](https://arxiv.org/abs/2401.09003)|arxiv 2024|https://huggingface.co/datasets/Vivacem/MMIQC|
+| []() |      arxiv 2024       |    -    |
+| []() |      arxiv 2024       |    -    |
+| []() |      arxiv 2024       |    -    |
+| []() |      arxiv 2024       |    -    |
+| []() |      arxiv 2024       |    -    |
+| []() |      arxiv 2024       |    -    |
+
 
 
 ## Prompt
