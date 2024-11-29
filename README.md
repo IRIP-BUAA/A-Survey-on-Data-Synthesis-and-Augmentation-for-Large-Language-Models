@@ -50,10 +50,24 @@ Work In Progress.
 | [Chartllama: A multimodal llm for chart understanding and generation](https://arxiv.org/abs/2311.16483) |      arxiv 2023       |    https://tingxueronghua.github.io/ChartLlama/    |
 | [Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731) |      arxiv 2023       |    https://github.com/zhaohengyuan1/Genixer    |
 | [Open-Source LLMs for Text Annotation: A Practical Guide for Model Setting and Fine-Tuning](https://arxiv.org/abs/2307.02179) |      arxiv 2024       |    https://osf.io/ctgqx/    |
-| [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://www.pnas.org/doi/10.1073/pnas.2305016120) |      NAS 2023       |        |
+| [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://www.pnas.org/doi/10.1073/pnas.2305016120) |      NAS 2023       |    -    |
 | [Can Large Language Models Aid in Annotating Speech Emotional Data? Uncovering New Frontiers](https://arxiv.org/abs/2307.06090) |      arxiv 2023       |    -    |
 | [Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks](https://arxiv.org/abs/2304.10145) |      arxiv 2023       |    -    |
 | [Chatgpt-4 outperforms experts and crowd workers in annotating political twitter messages with zero-shot learning](https://arxiv.org/abs/2304.06588) |      arxiv 2023       |    -    |
+| [Unraveling chatgpt: A critical analysis of ai-generated goal-oriented dialogues and annotations](https://arxiv.org/abs/2305.14556) |      ICIAAI       |    -    |
+| [FullAnno: A Data Engine for Enhancing Image Comprehension of MLLMs](https://arxiv.org/abs/2409.13540) |      arxiv 2024       |    https://arcana-project-page.github.io/    |
+| [DISCO: Distilling counterfactuals with large language models](https://arxiv.org/abs/2212.10534) |      arxiv 2023       |    https://github.com/eric11eca/disco    |
+| [Tinygsm: achieving> 80% on gsm8k with small language models](https://arxiv.org/abs/2312.09241) |      arxiv 2023       |    -    |
+| [Gpt3mix: Leveraging large-scale language models for text augmentation](https://arxiv.org/abs/2104.08826) |      arxiv 2021       |    https://github.com/naver-ai/hypermix    |
+| [CORE: A retrieve-then-edit framework for counterfactual data generation](https://arxiv.org/abs/2210.04873) |      arxiv 2022       |    https://github.com/tanay2001/CORE    |
+| [Diversify your vision datasets with automatic diffusion-based augmentation](https://arxiv.org/abs/2305.16289) |      arxiv 2023       |    https://github.com/lisadunlap/ALIA    |
+| [Closing the loop: Testing chatgpt to generate model explanations to improve human labelling of sponsored content on social media](https://arxiv.org/abs/2306.05115) |      arxiv 2023       |    https://github.com/thalesbertaglia/chatgpt-explanations-sponsored-content/    |
+| [Toolcoder: Teach code generation models to use api search tools](https://arxiv.org/abs/2305.04032) |      arxiv 2023       |    -    |
+| [Coannotating: Uncertainty-guided work allocation between human and large language models for data annotation](https://arxiv.org/abs/2310.15638) |      arxiv 2023       |    https://github.com/SALT-NLP/CoAnnotating    |
+| [Does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human Dialogues?](https://arxiv.org/abs/2307.07047) |      arxiv 2023       |    https://boru-roylu.github.io/DialGen    |
+| []() |      arxiv 2024       |    -    |
+| []() |      arxiv 2024       |    -    |
+| []() |      arxiv 2024       |    -    |
 | []() |      arxiv 2024       |    -    |
 
 ## Pretraining
