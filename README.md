@@ -29,6 +29,20 @@ Work In Progress.
 ## Data preparation
 | Paper                                             |  Published in | Code/Project|                                  
 |---------------------------------------------------|:-------------:|:------------:|
+| [Tinystories: How small can language models be and still speak coherent english?](https://arxiv.org/abs/2305.07759) |      arxiv 2023       |    https://huggingface.co/roneneldan    |
+| [Controllable dialogue simulation with in-context learning](https://arxiv.org/abs/2210.04185) |      arxiv 2022       |    https://github.com/Leezekun/dialogic    |
+| [Genie: Achieving human parity in content-grounded datasets generation](https://arxiv.org/abs/2401.14367) |      arxiv 2024       |    -    |
+| [Case2Code: Learning Inductive Reasoning with Synthetic Data](https://arxiv.org/abs/2407.12504) |      arxiv 2024       |    https://github.com/choosewhatulike/case2code    |
+| [Magicoder: Empowering Code Generation with OSS-Instruct](https://arxiv.org/abs/2312.02120) |      41 ICML       |    https://github.com/ise-uiuc/magicoder    |
+| [ Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) |      arxiv 2023       |    https://arxiv.org/abs/2212.10560    |
+| [Wizardlm: Empowering large language models to follow complex instructions](https://arxiv.org/abs/2304.12244) |      arxiv 2023       |    https://github.com/nlpxucan/WizardLM    |
+| [Augmenting Math Word Problems via Iterative Question Composing](https://arxiv.org/abs/2401.09003) |      arxiv 2024       |    https://huggingface.co/ datasets/Vivacem/MMIQC    |
+| [Common 7b language models already possess strong math capabilities](https://arxiv.org/abs/2403.04706) |      arxiv 2024       |    https://github.com/Xwin-LM/Xwin-LM    |
+| [Mammoth: Building math generalist models through hybrid instruction tuning](https://arxiv.org/abs/2309.05653) |      arxiv 2023       |    https://tiger-ai-lab.github.io/MAmmoTH/    |
+| [Enhancing chat language models by scaling high-quality instructional conversations](https://arxiv.org/abs/2305.14233) |      arxiv 2024       |    https://github.com/thunlp/UltraChat    |
+| [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464) |      arxiv 2024       |    https://magpie-align.github.io/    |
+| [GenQA: Generating Millions of Instructions from a Handful of Prompts](https://arxiv.org/abs/2406.10323) |      arxiv 2024       |    https://huggingface.co/datasets/tomg-group-umd/GenQA    |
+| []() |      arxiv 2024       |    -    |
 
 ## Pretraining
 | Paper                                             |  Published in | Code/Project|                                  
