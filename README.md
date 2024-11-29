@@ -42,6 +42,18 @@ Work In Progress.
 | [Enhancing chat language models by scaling high-quality instructional conversations](https://arxiv.org/abs/2305.14233) |      arxiv 2024       |    https://github.com/thunlp/UltraChat    |
 | [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464) |      arxiv 2024       |    https://magpie-align.github.io/    |
 | [GenQA: Generating Millions of Instructions from a Handful of Prompts](https://arxiv.org/abs/2406.10323) |      arxiv 2024       |    https://huggingface.co/datasets/tomg-group-umd/GenQA    |
+| [Sharegpt4v: Improving large multi-modal models with better captions](https://arxiv.org/abs/2311.12793) |      arxiv 2023       |    https://sharegpt4v.github.io/    |
+| [What makes for good visual instructions? synthesizing complex visual reasoning instructions for visual instruction tuning](https://arxiv.org/abs/2311.01487) |      arxiv 2023       |    https://github.com/RUCAIBox/ComVint    |
+| [Stablellava: Enhanced visual instruction tuning with synthesized image-dialogue data](https://arxiv.org/abs/2308.10253) |      arxiv 2023       |    https://github.com/icoz69/StableLLAVA    |
+| [Anygpt: Unified multimodal llm with discrete sequence modeling](https://arxiv.org/abs/2402.12226) |      arxiv 2024       |    https://junzhan2000.github.io/AnyGPT.github.io/    |
+| [ Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model](https://arxiv.org/abs/2407.07053) |      arxiv 2024       |    https://github.com/zwq2018/Multi-modal-Self-instruct    |
+| [Chartllama: A multimodal llm for chart understanding and generation](https://arxiv.org/abs/2311.16483) |      arxiv 2023       |    https://tingxueronghua.github.io/ChartLlama/    |
+| [Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731) |      arxiv 2023       |    https://github.com/zhaohengyuan1/Genixer    |
+| [Open-Source LLMs for Text Annotation: A Practical Guide for Model Setting and Fine-Tuning](https://arxiv.org/abs/2307.02179) |      arxiv 2024       |    https://osf.io/ctgqx/    |
+| [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://www.pnas.org/doi/10.1073/pnas.2305016120) |      NAS 2023       |        |
+| [Can Large Language Models Aid in Annotating Speech Emotional Data? Uncovering New Frontiers](https://arxiv.org/abs/2307.06090) |      arxiv 2023       |    -    |
+| [Can ChatGPT Reproduce Human-Generated Labels? A Study of Social Computing Tasks](https://arxiv.org/abs/2304.10145) |      arxiv 2023       |    -    |
+| [Chatgpt-4 outperforms experts and crowd workers in annotating political twitter messages with zero-shot learning](https://arxiv.org/abs/2304.06588) |      arxiv 2023       |    -    |
 | []() |      arxiv 2024       |    -    |
 
 ## Pretraining
