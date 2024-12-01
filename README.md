@@ -36,7 +36,7 @@ Work In Progress.
 | [Magicoder: Empowering Code Generation with OSS-Instruct](https://arxiv.org/abs/2312.02120) |      41 ICML       |    https://github.com/ise-uiuc/magicoder    |
 | [ Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) |      arxiv 2023       |    https://arxiv.org/abs/2212.10560    |
 | [Wizardlm: Empowering large language models to follow complex instructions](https://arxiv.org/abs/2304.12244) |      arxiv 2023       |    https://github.com/nlpxucan/WizardLM    |
-| [Augmenting Math Word Problems via Iterative Question Composing](https://arxiv.org/abs/2401.09003) |      arxiv 2024       |    https://huggingface.co/ datasets/Vivacem/MMIQC    |
+| [Augmenting Math Word Problems via Iterative Question Composing](https://arxiv.org/abs/2401.09003) |      arxiv 2024       |    https://huggingface.co/datasets/Vivacem/MMIQC    |
 | [Common 7b language models already possess strong math capabilities](https://arxiv.org/abs/2403.04706) |      arxiv 2024       |    https://github.com/Xwin-LM/Xwin-LM    |
 | [Mammoth: Building math generalist models through hybrid instruction tuning](https://arxiv.org/abs/2309.05653) |      arxiv 2023       |    https://tiger-ai-lab.github.io/MAmmoTH/    |
 | [Enhancing chat language models by scaling high-quality instructional conversations](https://arxiv.org/abs/2305.14233) |      arxiv 2024       |    https://github.com/thunlp/UltraChat    |
@@ -127,8 +127,7 @@ Work In Progress.
 | [Q: How to Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images!](https://arxiv.org/abs/2306.03932) |      arxiv 2023       |    https://github.com/codezakh/SelTDA    |
 |[MetaMeth: Bootstap your own mathematical questions for large language models](https://arxiv.org/abs/2309.12284)|arxiv 2024|https://meta-math.github.io/|
 | [Symbol tuning improves in-context learning in language models](https://arxiv.org/abs/2305.08298) |      arxiv 2023       |    -    |
-| [DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation](https://arxiv.org/abs/2308.14346) |      arxiv 2023       |    https://github.
- com/FudanDISC/DISC-MedLLM    |
+| [DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation](https://arxiv.org/abs/2308.14346) |      arxiv 2023       |    https://github.com/FudanDISC/DISC-MedLLM    |
  | [Mathgenie: Generating synthetic data with question back-translation for enhancing mathematical reasoning of llms](https://arxiv.org/abs/2402.16352) |      arxiv 2024       |    -    |
  | [BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT](https://arxiv.org/abs/2310.15896) |      arxiv 2023       |    https://github.com/scutcyr/BianQue    |
 
