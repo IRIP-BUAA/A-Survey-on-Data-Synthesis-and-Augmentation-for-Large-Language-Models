@@ -4,23 +4,34 @@ Work In Progress.
 
 ## Table of Contents
 
-* [Types of Data Synthesis and Augmentation](#types-of-data-synthesis-and-augmentation)
-* [Applications](#applications)
-  * [Data preparation](#data-preparation)
-  * [Pretraining](#pretraining)
-  * [Prompt](#prompt)
-  * [Fine-Tuning](#fine-tuning)
-  * [Alignment with Human Preferences](#alignment-with-human-preferences)
-  * [Knowledge Base](#knowledge-base)
-  * [RAG and Other Tools](#rag-and-other-tools)
-  * [Evaluation](#evaluation)
-  * [Optimization and Deployment](#optimization-and-deployment)
+* [Taxonomy](#Taxonomy)
+  * [Data Augmentation](#Data Augmentation)
+  * [Data Synthesis](#Data Synthesis)
+* [Full Lifecycle of LLM](#Full Lifecycle of LLM)
+  * [Data preparation](#Data-preparation)
+  * [Pretraining](#Pretraining)
+  * [Fine-Tuning](#Fine-tuning)
+  * [Instruction-Tuning](#Instruction-Tuning)
+  * [Preference Alignment](#Preference Alignment)
   * [Applications](#applications-1)
-  * [Agent](#agent)
-* [Dataset](#dataset)
-  * [Dataset Examples](#dataset-examples)
+* [Functionality](#Functionality)
+  * [Understanding](#Understanding)
+  * [Logic](#Logic)
+  * [Memory](#Memory)
+  * [Generation](#Generation)
+- [Challenges and Limitations](#Challenges and Limitations)
+  
+  - [Synthesizing and Augmenting Method](#Synthesizing and Augmenting Method)
+  
+  - [Data Quality](#Data Quality)
+  
+  - [Impact of Data Synthesis and Augmentation](#Impact of Data Synthesis and Augmentation)
+  
+  - [Impact on Different Applications and Tasks](#Impact on Different Applications and Tasks)
 
-# Types of Data Synthesis and Augmentation
+- [Future Directions](#Future Directions)
+
+# Taxonomy
 
 ## Data Augmentation
 
@@ -51,15 +62,14 @@ Work In Progress.
 | [Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731)                        | arxiv 2023         | https://github.com/zhaohengyuan1/Genixer     |
 | [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858)                                             | arxiv 2022         |                                              |
 | [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583)     | arxiv 2023         |                                              |
-| [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/arXiv:2306.08568)                                                    | arxiv 2023         | https://github.com/nlpxucan/WizardLM.        
+| [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/arXiv:2306.08568)                              | arxiv 2023         | https://github.com/nlpxucan/WizardLM.        |
 | [Magicoder: Empowering Code Generation with OSS-Instruct](https://arxiv.org/abs/2312.02120)                                                  | arxiv 2023         |                                              |
 | [VILA$^2$: VILA Augmented VILA](https://arxiv.org/abs/2407.17453)                                                                            | arxiv 2024         |                                              |
-|                                                                                                                                              |                    |                                              |
 | [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380)                            | arxiv 2024         |                                              |
 | [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://aclanthology.org/2023.acl-long.754/)                      | ACL Anthology 2023 | https://github.com/yizhongw/self-instruct    |
 | [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                             | arxiv 2022         |                                              |
 
-# Applications
+# Full Lifecycle of LLM
 
 ## Data preparation
 
@@ -169,32 +179,12 @@ Work In Progress.
 | [Mathgenie: Generating synthetic data with question back-translation for enhancing mathematical reasoning of llms](https://arxiv.org/abs/2402.16352)                  | arxiv 2024   | -                                                            |
 | [BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT](https://arxiv.org/abs/2310.15896) | arxiv 2023   | https://github.com/scutcyr/BianQue                           |
 
-## Prompt
+## Instruction-Tuning
 
 | Paper | Published in | Code/Project |
 | ----- |:------------:|:------------:|
 
-## Alignment with Human Preferences
-
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
-
-## Knowledge Base
-
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
-
-## RAG and Other Tools
-
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
-
-## Evaluation
-
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
-
-## Optimization and Deployment
+## Preference Alignment
 
 | Paper | Published in | Code/Project |
 | ----- |:------------:|:------------:|
@@ -284,9 +274,51 @@ Work In Progress.
 | Paper | Published in | Code/Project |
 | ----- |:------------:|:------------:|
 
-# Dataset
+# Functionality
 
-## Dataset Examples
+## Understanding
 
-| Dataset | Home/Github | Download link |
-| ------- |:-----------:|:-------------:|
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
+
+## Logic
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
+
+## Memory
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
+
+## Generation
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
+
+# Challenges and Limitations
+
+## Synthesizing and Augmenting Method
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
+
+## Data Quality
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
+
+## Impact of Data Synthesis and Augmentation
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
+
+## Impact on Different Applications and Tasks
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
+
+# Future Directions
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
