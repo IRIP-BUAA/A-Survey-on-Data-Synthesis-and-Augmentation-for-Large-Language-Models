@@ -51,7 +51,7 @@ Work In Progress.
 | [Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731)                        | arxiv 2023         | https://github.com/zhaohengyuan1/Genixer     |
 | [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858)                                             | arxiv 2022         |                                              |
 | [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583)     | arxiv 2023         |                                              |
-| [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](arXiv:2306.08568)                                                    | arxiv 2023         | https://github.com/nlpxucan/WizardLM.        |
+| [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/arXiv:2306.08568)                                                    | arxiv 2023         | https://github.com/nlpxucan/WizardLM.        
 | [Magicoder: Empowering Code Generation with OSS-Instruct](https://arxiv.org/abs/2312.02120)                                                  | arxiv 2023         |                                              |
 | [VILA$^2$: VILA Augmented VILA](https://arxiv.org/abs/2407.17453)                                                                            | arxiv 2024         |                                              |
 |                                                                                                                                              |                    |                                              |
