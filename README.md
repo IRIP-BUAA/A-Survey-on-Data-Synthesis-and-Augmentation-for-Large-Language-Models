@@ -5,31 +5,31 @@ Work In Progress.
 ## Table of Contents
 
 * [Taxonomy](#Taxonomy)
-  * [Data Augmentation](#Data Augmentation)
-  * [Data Synthesis](#Data Synthesis)
-* [Full Lifecycle of LLM](#Full Lifecycle of LLM)
+  * [Data Augmentation](#Data-Augmentation)
+  * [Data Synthesis](#Data-Synthesis)
+* [Full Lifecycle of LLM](#Full-Lifecycle-of-LLM)
   * [Data preparation](#Data-preparation)
   * [Pretraining](#Pretraining)
   * [Fine-Tuning](#Fine-tuning)
   * [Instruction-Tuning](#Instruction-Tuning)
-  * [Preference Alignment](#Preference Alignment)
+  * [Preference Alignment](#Preference-Alignment)
   * [Applications](#applications-1)
 * [Functionality](#Functionality)
   * [Understanding](#Understanding)
   * [Logic](#Logic)
   * [Memory](#Memory)
   * [Generation](#Generation)
-- [Challenges and Limitations](#Challenges and Limitations)
+- [Challenges and Limitations](#Challenges-and-Limitations)
   
-  - [Synthesizing and Augmenting Method](#Synthesizing and Augmenting Method)
+  - [Synthesizing and Augmenting Method](#Synthesizing-and-Augmenting-Method)
   
-  - [Data Quality](#Data Quality)
+  - [Data Quality](#Data-Quality)
   
-  - [Impact of Data Synthesis and Augmentation](#Impact of Data Synthesis and Augmentation)
+  - [Impact of Data Synthesis and Augmentation](#Impact-of-Data-Synthesis-and-Augmentation)
   
-  - [Impact on Different Applications and Tasks](#Impact on Different Applications and Tasks)
+  - [Impact on Different Applications and Tasks](#Impact-on-Different-Applications-and-Tasks)
 
-- [Future Directions](#Future Directions)
+- [Future Directions](#Future-Directions)
 
 # Taxonomy
 
