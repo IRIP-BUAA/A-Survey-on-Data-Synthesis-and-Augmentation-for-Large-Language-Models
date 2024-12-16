@@ -5,16 +5,21 @@ Work In Progress.
 ## Table of Contents
 
 * [Taxonomy](#Taxonomy)
+  
   * [Data Augmentation](#Data-Augmentation)
   * [Data Synthesis](#Data-Synthesis)
+
 * [Full Lifecycle of LLM](#Full-Lifecycle-of-LLM)
+  
   * [Data preparation](#Data-preparation)
   * [Pretraining](#Pretraining)
   * [Fine-Tuning](#Fine-tuning)
   * [Instruction-Tuning](#Instruction-Tuning)
   * [Preference Alignment](#Preference-Alignment)
   * [Applications](#applications-1)
+
 * [Functionality](#Functionality)
+  
   * [Understanding](#Understanding)
   * [Logic](#Logic)
   * [Memory](#Memory)
@@ -181,8 +186,28 @@ Work In Progress.
 
 ## Instruction-Tuning
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                          | Published in | Code/Project                                           |
+| ------------------------------------------------------------------------------------------------------------------------------ |:------------:|:------------------------------------------------------:|
+|                                                                                                                                |              | https://github.com/tatsu-lab/stanford_alpaca           |
+| [AlpaGasus: Training A Better Alpaca with Fewer Data](https://arxiv.org/abs/2307.08701)                                        | arXiv 2023   | https://lichang-chen.github.io/AlpaGasus/              |
+| [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)         |              | https://github.com/lm-sys/FastChat                     |
+| [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)                  | arXiv 2023   | https://github.com/nlpxucan/WizardLM                   |
+| [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)                        | arXiv 2023   | https://www.microsoft.com/en-us/research/project/orca/ |
+| [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)                                       | arXiv 2023   | https://www.microsoft.com/en-us/research/project/orca/ |
+| [Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data](https://arxiv.org/abs/2304.01196)         | arXiv 2023   | https://github.com/project-baize/baize-chatbot         |
+| [LongForm: Effective Instruction Tuning with Reverse Instructions](https://arxiv.org/abs/2304.08460)                           | arXiv 2023   | https://github.com/akoksal/LongForm                    |
+| [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)                                                                  | NIPS 2024    | https://llava-vl.github.io/                            |
+| [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)                                          | IEEE 2024    | https://llava-vl.github.io/                            |
+| [LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents](https://arxiv.org/abs/2311.05437)                           | arXiv 2023   | https://llava-vl.github.io/llava-plus/                 |
+| [LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing](https://arxiv.org/abs/2311.00571) | arXiv 2023   |                                                        |
+| [LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](https://arxiv.org/abs/2306.00890)       | NeurlPS 2024 | https://aka.ms/llava-med                               |
+| [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560)                   | arXiv 2022   | https://github.com/yizhongw/self-instruct              |
+| [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259)                                            | arXiv 2023   |                                                        |
+| [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)              | arXiv 2024   | https://github.com/uclaml/SPIN                         |
+| [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)          | arXiv 2023   |                                                        |
+| [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)                                           | arXiv 2022   |                                                        |
+|                                                                                                                                |              |                                                        |
+|                                                                                                                                |              |                                                        |
 
 ## Preference Alignment
 
@@ -268,11 +293,6 @@ Work In Progress.
 | -------------------------------------------------------------------------------------------------------------- |:------------:|:---------------------------------:|
 | [FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models](http://arxiv.org/abs/2402.10986) | Arxiv 2024   | http://arxiv.org/abs/2402.10986   |
 | [FinGLM Competition](https://github.com/MetaGLM/FinGLM)                                                        | Github repo  | https://github.com/MetaGLM/FinGLM |
-
-## Agent
-
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
 
 # Functionality
 
