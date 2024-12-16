@@ -216,7 +216,7 @@ Work In Progress.
 | [AugGPT: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007)                                                                            | arXiv 2023     |                                                        |
 | [CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation](https://arxiv.org/abs/2310.15638)                     | arXiv 2023     | https://github.com/SALT-NLP/CoAnnotating               |
 | [Closing the Loop: Testing ChatGPT to Generate Model Explanations to Improve Human Labelling of Sponsored Content on Social Media](https://arxiv.org/abs/2306.05115) | Springer, Cham |                                                        |
-| [ToolCoder: Teach Code Generation Models to use API search tools](https://arxiv.org/abs/2305.04032)                                                                  |                |                                                        |
+| [ToolCoder: Teach Code Generation Models to use API search tools](https://arxiv.org/abs/2305.04032)                                                                  | arXiv 2023     |                                                        |
 
 ## Preference Alignment
 
@@ -307,18 +307,35 @@ Work In Progress.
 
 ## Understanding
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                 | Published in | Code/Project                                 |
+| --------------------------------------------------------------------------------------------------------------------- |:------------:|:--------------------------------------------:|
+|                                                                                                                       |              | https://github.com/tatsu-lab/stanford_alpaca |
+| [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)         | arxiv 2023   | https://github.com/nlpxucan/WizardLM         |
+| [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380)     | arxiv 2024   |                                              |
+| [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)                                                         | NIPS 2024    | https://llava-vl.github.io                   |
+| [ChartLlama: A Multimodal LLM for Chart Understanding and Generation](https://arxiv.org/abs/2311.16483)               | arxiv 2023   | https://tingxueronghua.github.io/ChartLlama/ |
+| [Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731) | arxiv 2023   | https://github.com/zhaohengyuan1/Genixer     |
 
 ## Logic
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                                              | Published in | Code/Project                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |:------------:|:---------------------------------------------:|
+| [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)                              | arxiv 2023   |                                               |
+| [Case2Code: Learning Inductive Reasoning with Synthetic Data](https://arxiv.org/abs/2407.12504)                                                    | arxiv 2024   | https://github.com/choosewhatulike/case2code  |
+| [MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning](https://arxiv.org/abs/2309.05653)                                     | arxiv 2023   | https://tiger-ai-lab.github.io/MAmmoTH/       |
+| [Augmenting Math Word Problems via Iterative Question Composing](https://arxiv.org/abs/2401.09003)                                                 | ICLR 2024    | https://huggingface.co/datasets/Vivacem/MMIQC |
+| [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                                   | arxiv 2022   |                                               |
+| [Q: How to Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images!](https://arxiv.org/abs/2306.03932) | CVPR 2023    | https://github.com/codezakh/SelTDA            |
 
 ## Memory
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                                 | Published in   | Code/Project                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------- |:--------------:|:------------------------------------------------------:|
+| [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)                         | arxiv 2024     |                                                        |
+| [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168) | World Wide Web | https://github.com/zjunlp/AutoKG                       |
+| [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094)                                       | arxiv 2024     | https://github.com/tencent-ailab/persona-hub           |
+| [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)                                      | arxiv 2023     |                                                        |
+| [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)            |                | https://github.com/microsoft/CodeT/tree/main/RepoCoder |
 
 ## Generation
 
@@ -348,6 +365,9 @@ Work In Progress.
 | ----- |:------------:|:------------:|
 
 # Future Directions
+
+| Paper | Published in | Code/Project |
+| ----- |:------------:|:------------:|
 
 | Paper | Published in | Code/Project |
 | ----- |:------------:|:------------:|
