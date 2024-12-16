@@ -346,13 +346,23 @@ Work In Progress.
 
 ## Synthesizing and Augmenting Method
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                                    | Published in | Code/Project                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------- |:------------:|:---------------------------------------:|
+| [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267)                  | arxiv 2023   |                                         |
+| [LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement](https://arxiv.org/abs/2403.15042)                                         | arxiv 2024   | https://github.com/SqueezeAILab/LLM2LLM |
+| [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583) | arxiv 2023   | https://github.com/nlpxucan/WizardLM    |
+| [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                         | NIPS 2022    |                                         |
+| [SciInstruct: a Self-Reflective Instruction Annotated Dataset for Training Scientific Language Models](https://arxiv.org/abs/2401.07950) | arxiv 2024   | https://github.com/THUDM/SciGLM         |
+| [ChemLLM: A Chemical Large Language Model](https://arxiv.org/abs/2402.06852)                                                             | arxiv 2024   |                                         |
 
 ## Data Quality
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                                             | Published in | Code/Project               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |:------------:|:--------------------------:|
+| [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](https://arxiv.org/abs/2409.18812)                                     | arxiv 2024   |                            |
+| [CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation](https://dl.acm.org/doi/10.1145/3637528.3671901) | ACM          |                            |
+| [Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate](https://arxiv.org/abs/2305.11595)           | arxiv 2023   |                            |
+| [LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content](https://arxiv.org/abs/2403.05854)                                      | CVPR 2024    | https://ltgccode.github.io |
 
 ## Impact of Data Synthesis and Augmentation
 
@@ -368,6 +378,5 @@ Work In Progress.
 
 | Paper | Published in | Code/Project |
 | ----- |:------------:|:------------:|
-
 | Paper | Published in | Code/Project |
 | ----- |:------------:|:------------:|
