@@ -335,7 +335,7 @@ Work In Progress.
 | [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168) | World Wide Web | https://github.com/zjunlp/AutoKG                       |
 | [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094)                                       | arxiv 2024     | https://github.com/tencent-ailab/persona-hub           |
 | [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)                                      | arxiv 2023     |                                                        |
-| [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)            |                | https://github.com/microsoft/CodeT/tree/main/RepoCoder |
+| [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)            | arXiv 2303     | https://github.com/microsoft/CodeT/tree/main/RepoCoder |
 
 ## Generation
 
@@ -366,17 +366,26 @@ Work In Progress.
 
 ## Impact of Data Synthesis and Augmentation
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                | Published in | Code/Project                                   |
+| -------------------------------------------------------------------------------------------------------------------- |:------------:|:----------------------------------------------:|
+| [DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows](https://arxiv.org/abs/2402.10379) | arxiv 2024   | https://github.com/datadreamer-dev/DataDreamer |
+| [HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection](https://arxiv.org/abs/2408.02927)      | arxiv 2024   | https://github.com/The-FinAI/HARMONIC          |
 
 ## Impact on Different Applications and Tasks
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                                  | Published in | Code/Project                       |
+| -------------------------------------------------------------------------------------------------------------------------------------- |:------------:|:----------------------------------:|
+| [PANDA: Preference Adaptation for Enhancing Domain-Specific Abilities of LLMs](https://aclanthology.org/2024.findings-acl.651/)        | ACL 2024     | https://github.com/THUNLP-MT/PANDA |
+| [Role Prompting Guided Domain Adaptation with General Capability Preserve for Large Language Models](https://arxiv.org/abs/2403.02756) | arxiv 2024   |                                    |
 
 # Future Directions
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                              | Published in  | Code/Project                                                  |
+| ------------------------------------------------------------------------------------------------------------------ |:-------------:|:-------------------------------------------------------------:|
+| [A Universal Metric for Robust Evaluation of Synthetic Tabular Data](https://ieeexplore.ieee.org/document/9984938) | IEEE 2022     |                                                               |
+| [CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis](https://arxiv.org/abs/2303.14081)    | Springer 2023 |                                                               |
+| [LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents](https://arxiv.org/abs/2311.05437)               | arxiv 2023    | https://llava-vl.github.io/llava-plus/                        |
+| [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568)          | arxiv 2023    | https://github.com/nlpxucan/WizardLM                          |
+| [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226)                 | arxiv 2024    | https://junzhan2000.github.io/AnyGPT.github.io/               |
+| [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)                | arxiv 2021    | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api |
+| [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)                                            | arxiv 2023    |                                                               |
