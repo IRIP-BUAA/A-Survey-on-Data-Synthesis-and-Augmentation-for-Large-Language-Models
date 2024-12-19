@@ -1,6 +1,7 @@
 # A Survey on Data Synthesis and Augmentation for Large Language Models
 
-Work In Progress.
+A collection of AWESOME papers on data synthesis and augmentation for Large Language Models.
+🌏Please check out our survey paper: https://arxiv.org/abs/2410.12896.
 
 ## Table of Contents
 
@@ -61,18 +62,18 @@ Work In Progress.
 | Paper                                                                                                                                        | Published in       | Code/Project                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |:------------------:|:--------------------------------------------:|
 | [AlpaGasus: Training A Better Alpaca with Fewer Data](https://arxiv.org/abs/2307.08701)                                                      | arxiv 2023         | https://lichang-chen.github.io/AlpaGasus/    |
-| [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2307.08701)                          | arxiv 2023         |                                              |
-| [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)                                                  | arxiv 2023         |                                              |
+| [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2307.08701)                          | arxiv 2023         | -                                            |
+| [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)                                                  | arxiv 2023         | -                                            |
 | [Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model](https://arxiv.org/abs/2407.07053) | arxiv 2023         | https://multi-modal-self-instruct.github.io/ |
 | [Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731)                        | arxiv 2023         | https://github.com/zhaohengyuan1/Genixer     |
-| [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858)                                             | arxiv 2022         |                                              |
-| [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583)     | arxiv 2023         |                                              |
+| [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/abs/2206.14858)                                             | arxiv 2022         | -                                            |
+| [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583)     | arxiv 2023         | -                                            |
 | [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/arXiv:2306.08568)                              | arxiv 2023         | https://github.com/nlpxucan/WizardLM.        |
-| [Magicoder: Empowering Code Generation with OSS-Instruct](https://arxiv.org/abs/2312.02120)                                                  | arxiv 2023         |                                              |
-| [VILA$^2$: VILA Augmented VILA](https://arxiv.org/abs/2407.17453)                                                                            | arxiv 2024         |                                              |
-| [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380)                            | arxiv 2024         |                                              |
+| [Magicoder: Empowering Code Generation with OSS-Instruct](https://arxiv.org/abs/2312.02120)                                                  | arxiv 2023         | -                                            |
+| [VILA$^2$: VILA Augmented VILA](https://arxiv.org/abs/2407.17453)                                                                            | arxiv 2024         | -                                            |
+| [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380)                            | arxiv 2024         | -                                            |
 | [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://aclanthology.org/2023.acl-long.754/)                      | ACL Anthology 2023 | https://github.com/yizhongw/self-instruct    |
-| [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                             | arxiv 2022         |                                              |
+| [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                             | arxiv 2022         | -                                            |
 
 # Full Lifecycle of LLM
 
@@ -188,7 +189,7 @@ Work In Progress.
 
 | Paper                                                                                                                                                                | Published in   | Code/Project                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------:|:------------------------------------------------------:|
-|                                                                                                                                                                      |                | https://github.com/tatsu-lab/stanford_alpaca           |
+| [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)                                                         |                | https://github.com/tatsu-lab/stanford_alpaca           |
 | [AlpaGasus: Training A Better Alpaca with Fewer Data](https://arxiv.org/abs/2307.08701)                                                                              | arXiv 2023     | https://lichang-chen.github.io/AlpaGasus/              |
 | [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/)                                               |                | https://github.com/lm-sys/FastChat                     |
 | [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)                                                        | arXiv 2023     | https://github.com/nlpxucan/WizardLM                   |
@@ -199,29 +200,43 @@ Work In Progress.
 | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)                                                                                                        | NeurIPS 2024   | https://llava-vl.github.io/                            |
 | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)                                                                                | IEEE 2024      | https://llava-vl.github.io/                            |
 | [LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents](https://arxiv.org/abs/2311.05437)                                                                 | arXiv 2023     | https://llava-vl.github.io/llava-plus/                 |
-| [LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing](https://arxiv.org/abs/2311.00571)                                       | arXiv 2023     |                                                        |
+| [LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing](https://arxiv.org/abs/2311.00571)                                       | arXiv 2023     | -                                                      |
 | [LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](https://arxiv.org/abs/2306.00890)                                             | NeurIPS 2024   | https://aka.ms/llava-med                               |
 | [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560)                                                         | arXiv 2022     | https://github.com/yizhongw/self-instruct              |
 | [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259)                                                                                  | arXiv 2023     |                                                        |
 | [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)                                                    | arXiv 2024     | https://github.com/uclaml/SPIN                         |
-| [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)                                                | arXiv 2023     |                                                        |
-| [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)                                                                                 | arXiv 2022     |                                                        |
-| [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)                                                                    | arXiv 2023     |                                                        |
+| [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)                                                | arXiv 2023     | -                                                      |
+| [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)                                                                                 | arXiv 2022     | -                                                      |
+| [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)                                                                    | arXiv 2023     | -                                                      |
 | [Q: How to Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images!](https://arxiv.org/abs/2306.03932)                   | CVPR 2023      | https://github.com/codezakh/SelTDA                     |
-| [ChatGPT-4 Outperforms Experts and Crowd Workers in Annotating Political Twitter Messages with Zero-Shot Learning](https://arxiv.org/abs/2304.06588)                 | arXiv 2023     |                                                        |
-| [Prompting Large Language Model for Machine Translation: A Case Study](arxiv.org/abs/2301.07069)                                                                     | arXiv 2023     |                                                        |
+| [ChatGPT-4 Outperforms Experts and Crowd Workers in Annotating Political Twitter Messages with Zero-Shot Learning](https://arxiv.org/abs/2304.06588)                 | arXiv 2023     | -                                                      |
+| [Prompting Large Language Model for Machine Translation: A Case Study](arxiv.org/abs/2301.07069)                                                                     | arXiv 2023     | -                                                      |
 | [T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Mixed Large Language Model Signals for Science Question Answering](https://arxiv.org/abs/2305.03453)     | AAAI 2024      | https://github.com/T-SciQ/T-SciQ                       |
 | [CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation](https://arxiv.org/abs/2210.04873)                                                          | arXiv 2022     | https://github.com/tanay2001/CORE                      |
 | [Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation](https://arxiv.org/abs/2305.16289)                                                       | NeurIPS 2023   | https://github.com/lisadunlap/ALIA                     |
-| [AugGPT: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007)                                                                            | arXiv 2023     |                                                        |
+| [AugGPT: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007)                                                                            | arXiv 2023     | -                                                      |
 | [CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation](https://arxiv.org/abs/2310.15638)                     | arXiv 2023     | https://github.com/SALT-NLP/CoAnnotating               |
-| [Closing the Loop: Testing ChatGPT to Generate Model Explanations to Improve Human Labelling of Sponsored Content on Social Media](https://arxiv.org/abs/2306.05115) | Springer, Cham |                                                        |
-| [ToolCoder: Teach Code Generation Models to use API search tools](https://arxiv.org/abs/2305.04032)                                                                  | arXiv 2023     |                                                        |
+| [Closing the Loop: Testing ChatGPT to Generate Model Explanations to Improve Human Labelling of Sponsored Content on Social Media](https://arxiv.org/abs/2306.05115) | Springer, Cham | -                                                      |
+| [ToolCoder: Teach Code Generation Models to use API search tools](https://arxiv.org/abs/2305.04032)                                                                  | arXiv 2023     | -                                                      |
 
 ## Preference Alignment
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                                      | Published in | Code/Project                                                  |
+| -------------------------------------------------------------------------------------------------------------------------- |:------------:|:-------------------------------------------------------------:|
+| [UltraFeedback: Boosting Language Models with Scaled AI Feedback](https://arxiv.org/abs/2310.01377)                        | arXiv 2023   | -                                                             |
+| [HelpSteer: Multi-attribute Helpfulness Dataset for SteerLM](https://arxiv.org/abs/2311.09528)                             | arXiv 2023   | https://huggingface.co/datasets/nvidia/HelpSteer              |
+| [Learning From Mistakes Makes LLM Better Reasoner](https://arxiv.org/abs/2310.20689)                                       | arXiv 2023   | https://github.com/microsoft/LEMA                             |
+| [Bot-Adversarial Dialogue for Safe Conversational Agents](https://aclanthology.org/2021.naacl-main.235/)                   | ACL 2021     | https://parl.ai/projects/safety_recipes/                      |
+| [BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset](https://arxiv.org/abs/2307.04657)   | NIPS 2024    | https://sites.google.com/view/pku-beavertails                 |
+| [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)                                                              | arXiv 2023   | -                                                             |
+| [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)                        | arXiv 2021   | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api |
+| [Direct Language Model Alignment from Online AI Feedback](https://arxiv.org/abs/2402.04792)                                | arXiv 2024   | -                                                             |
+| [Self-Judge: Selective Instruction Following with Alignment Self-Evaluation](https://arxiv.org/abs/2409.00935)             | arXiv 2024   | https://github.com/nusnlp/Self-J                              |
+| [SALMON: Self-Alignment with Instructable Reward Models](https://iclr.cc/virtual/2024/poster/17454)                        | ICLR 2024    | https://github.com/IBM/SALMON                                 |
+| [SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF](https://arxiv.org/abs/2310.05344)          | arXiv 2023   | https://huggingface.co/nvidia/SteerLM-llama2-13B              |
+| [Starling-7B: Increasing LLM Helpfulness & Harmlessness with RLAIF](https://openreview.net/forum?id=GqDntYTTbk#discussion) | COLM 2024    | https://starling.cs.berkeley.edu/                             |
+| [Advancing LLM Reasoning Generalists with Preference Trees](https://arxiv.org/abs/2404.02078)                              | arXiv 2024   | https://github.com/OpenBMB/Eurus                              |
+| [CriticBench: Benchmarking LLMs for Critique-Correct Reasoning](https://arxiv.org/abs/2402.14809)                          | arXiv 2024   | https://criticbench.github.io/                                |
 
 ## Applications
 
@@ -309,9 +324,9 @@ Work In Progress.
 
 | Paper                                                                                                                 | Published in | Code/Project                                 |
 | --------------------------------------------------------------------------------------------------------------------- |:------------:|:--------------------------------------------:|
-|                                                                                                                       |              | https://github.com/tatsu-lab/stanford_alpaca |
+| [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)          | -            | https://github.com/tatsu-lab/stanford_alpaca |
 | [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)         | arxiv 2023   | https://github.com/nlpxucan/WizardLM         |
-| [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380)     | arxiv 2024   |                                              |
+| [Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380)     | arxiv 2024   | -                                            |
 | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)                                                         | NIPS 2024    | https://llava-vl.github.io                   |
 | [ChartLlama: A Multimodal LLM for Chart Understanding and Generation](https://arxiv.org/abs/2311.16483)               | arxiv 2023   | https://tingxueronghua.github.io/ChartLlama/ |
 | [Genixer: Empowering Multimodal Large Language Models as a Powerful Data Generator](https://arxiv.org/abs/2312.06731) | arxiv 2023   | https://github.com/zhaohengyuan1/Genixer     |
@@ -320,27 +335,33 @@ Work In Progress.
 
 | Paper                                                                                                                                              | Published in | Code/Project                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- |:------------:|:---------------------------------------------:|
-| [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)                              | arxiv 2023   |                                               |
+| [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)                              | arxiv 2023   | -                                             |
 | [Case2Code: Learning Inductive Reasoning with Synthetic Data](https://arxiv.org/abs/2407.12504)                                                    | arxiv 2024   | https://github.com/choosewhatulike/case2code  |
 | [MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning](https://arxiv.org/abs/2309.05653)                                     | arxiv 2023   | https://tiger-ai-lab.github.io/MAmmoTH/       |
 | [Augmenting Math Word Problems via Iterative Question Composing](https://arxiv.org/abs/2401.09003)                                                 | ICLR 2024    | https://huggingface.co/datasets/Vivacem/MMIQC |
-| [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                                   | arxiv 2022   |                                               |
+| [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                                   | arxiv 2022   | -                                             |
 | [Q: How to Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images!](https://arxiv.org/abs/2306.03932) | CVPR 2023    | https://github.com/codezakh/SelTDA            |
 
 ## Memory
 
 | Paper                                                                                                                                 | Published in   | Code/Project                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------- |:--------------:|:------------------------------------------------------:|
-| [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)                         | arxiv 2024     |                                                        |
+| [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)                         | arxiv 2024     | -                                                      |
 | [LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities](https://arxiv.org/abs/2305.13168) | World Wide Web | https://github.com/zjunlp/AutoKG                       |
 | [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094)                                       | arxiv 2024     | https://github.com/tencent-ailab/persona-hub           |
-| [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)                                      | arxiv 2023     |                                                        |
-| [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)            | arXiv 2303     | https://github.com/microsoft/CodeT/tree/main/RepoCoder |
+| [AceCoder: Utilizing Existing Code to Enhance Code Generation](https://arxiv.org/abs/2303.17780)                                      | arxiv 2023     | -                                                      |
+| [RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation](https://arxiv.org/abs/2303.12570)            | arXiv 2023     | https://github.com/microsoft/CodeT/tree/main/RepoCoder |
 
 ## Generation
 
-| Paper | Published in | Code/Project |
-| ----- |:------------:|:------------:|
+| Paper                                                                                                               | Published in | Code/Project                                        |
+| ------------------------------------------------------------------------------------------------------------------- |:------------:|:---------------------------------------------------:|
+| [Genie: Achieving Human Parity in Content-Grounded Datasets Generation](https://arxiv.org/abs/2401.14367)           | arxiv 2024   | -                                                   |
+| [UltraMedical: Building Specialized Generalists in Biomedicine](https://arxiv.org/abs/2406.03949)                   | arxiv 2024   | https://github.com/TsinghuaC3I/UltraMedical         |
+| [HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge](https://arxiv.org/abs/2304.06975)                       | arxiv 2023   | https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese |
+| [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759) | arxiv 2023   | -                                                   |
+| [Controllable Dialogue Simulation with In-Context Learning](https://arxiv.org/abs/2210.04185)                       | arxiv 2022   | https://github.com/Leezekun/dialogic                |
+| [Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation](https://arxiv.org/abs/2305.16289)      | NIPS 2023    | https://github.com/lisadunlap/ALIA                  |
 
 # Challenges and Limitations
 
@@ -348,20 +369,20 @@ Work In Progress.
 
 | Paper                                                                                                                                    | Published in | Code/Project                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------- |:------------:|:---------------------------------------:|
-| [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267)                  | arxiv 2023   |                                         |
+| [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267)                  | arxiv 2023   | -                                       |
 | [LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement](https://arxiv.org/abs/2403.15042)                                         | arxiv 2024   | https://github.com/SqueezeAILab/LLM2LLM |
 | [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2308.09583) | arxiv 2023   | https://github.com/nlpxucan/WizardLM    |
-| [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                         | NIPS 2022    |                                         |
+| [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)                                                         | NIPS 2022    | -                                       |
 | [SciInstruct: a Self-Reflective Instruction Annotated Dataset for Training Scientific Language Models](https://arxiv.org/abs/2401.07950) | arxiv 2024   | https://github.com/THUDM/SciGLM         |
-| [ChemLLM: A Chemical Large Language Model](https://arxiv.org/abs/2402.06852)                                                             | arxiv 2024   |                                         |
+| [ChemLLM: A Chemical Large Language Model](https://arxiv.org/abs/2402.06852)                                                             | arxiv 2024   | -                                       |
 
 ## Data Quality
 
 | Paper                                                                                                                                             | Published in | Code/Project               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- |:------------:|:--------------------------:|
-| [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](https://arxiv.org/abs/2409.18812)                                     | arxiv 2024   |                            |
-| [CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation](https://dl.acm.org/doi/10.1145/3637528.3671901) | ACM          |                            |
-| [Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate](https://arxiv.org/abs/2305.11595)           | arxiv 2023   |                            |
+| [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](https://arxiv.org/abs/2409.18812)                                     | arxiv 2024   | -                          |
+| [CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation](https://dl.acm.org/doi/10.1145/3637528.3671901) | ACM          | -                          |
+| [Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate](https://arxiv.org/abs/2305.11595)           | arxiv 2023   | -                          |
 | [LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content](https://arxiv.org/abs/2403.05854)                                      | CVPR 2024    | https://ltgccode.github.io |
 
 ## Impact of Data Synthesis and Augmentation
@@ -376,14 +397,14 @@ Work In Progress.
 | Paper                                                                                                                                  | Published in | Code/Project                       |
 | -------------------------------------------------------------------------------------------------------------------------------------- |:------------:|:----------------------------------:|
 | [PANDA: Preference Adaptation for Enhancing Domain-Specific Abilities of LLMs](https://aclanthology.org/2024.findings-acl.651/)        | ACL 2024     | https://github.com/THUNLP-MT/PANDA |
-| [Role Prompting Guided Domain Adaptation with General Capability Preserve for Large Language Models](https://arxiv.org/abs/2403.02756) | arxiv 2024   |                                    |
+| [Role Prompting Guided Domain Adaptation with General Capability Preserve for Large Language Models](https://arxiv.org/abs/2403.02756) | arxiv 2024   | -                                  |
 
 # Future Directions
 
 | Paper                                                                                                              | Published in  | Code/Project                                                  |
 | ------------------------------------------------------------------------------------------------------------------ |:-------------:|:-------------------------------------------------------------:|
-| [A Universal Metric for Robust Evaluation of Synthetic Tabular Data](https://ieeexplore.ieee.org/document/9984938) | IEEE 2022     |                                                               |
-| [CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis](https://arxiv.org/abs/2303.14081)    | Springer 2023 |                                                               |
+| [A Universal Metric for Robust Evaluation of Synthetic Tabular Data](https://ieeexplore.ieee.org/document/9984938) | IEEE 2022     | -                                                             |
+| [CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis](https://arxiv.org/abs/2303.14081)    | Springer 2023 | -                                                             |
 | [LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents](https://arxiv.org/abs/2311.05437)               | arxiv 2023    | https://llava-vl.github.io/llava-plus/                        |
 | [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568)          | arxiv 2023    | https://github.com/nlpxucan/WizardLM                          |
 | [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226)                 | arxiv 2024    | https://junzhan2000.github.io/AnyGPT.github.io/               |
