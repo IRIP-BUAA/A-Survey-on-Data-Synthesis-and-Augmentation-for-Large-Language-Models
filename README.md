@@ -1,6 +1,7 @@
 # A Survey on Data Synthesis and Augmentation for Large Language Models
 
 A collection of AWESOME papers on data synthesis and augmentation for Large Language Models.
+
 🌏Please check out our survey paper: https://arxiv.org/abs/2410.12896.
 
 ## Table of Contents
