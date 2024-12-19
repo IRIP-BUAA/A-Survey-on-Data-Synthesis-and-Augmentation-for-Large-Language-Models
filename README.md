@@ -388,4 +388,4 @@ Work In Progress.
 | [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568)          | arxiv 2023    | https://github.com/nlpxucan/WizardLM                          |
 | [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226)                 | arxiv 2024    | https://junzhan2000.github.io/AnyGPT.github.io/               |
 | [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)                | arxiv 2021    | https://www.microsoft.com/en-us/bing/apis/bing-web-search-api |
-| [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)                                            | arxiv 2023    |                                                               |
+| [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)                                            | arxiv 2023    | https://next-gpt.github.io/                                   |
